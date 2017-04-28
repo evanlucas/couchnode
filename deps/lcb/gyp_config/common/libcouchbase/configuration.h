@@ -33,7 +33,7 @@
  */
 
 /** @brief libcouchbase version string */
-#define LCB_VERSION_STRING "2.7.4-njs"
+#define LCB_VERSION_STRING "2.7.4-njscccpfix"
 
 /**@brief libcouchbase hex version
  *
@@ -55,7 +55,7 @@
 /**@brief The SCM revision ID
  * @see LCB_CNTL_CHANGESET
  */
-#define LCB_VERSION_CHANGESET "502c6716b24581a258fcb8920532a20a53e81d6b"
+#define LCB_VERSION_CHANGESET "f3019090c0e2823fa55de5d78eee3c121c083193"
 
 #ifdef __cplusplus
 extern "C" {
